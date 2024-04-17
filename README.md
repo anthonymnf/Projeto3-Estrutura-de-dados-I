@@ -14,6 +14,7 @@
   <li>Descobrir os remedios abaixo de um valor que você pode pagar</li>
 </ul>
 <h3>Optei por não usar o .gitignore pra que o Professor já tivesse acesso a um arquivo com alguns remédios pré-cadastrados</h3>
+<h3><a href="https://github.com/anthonymnf/Estrutura_de_Dados_I">Link do repositório da disciplina</a></h3>
 <h3>Pré-requisitos⚙</h3>
 <ul>
   <li>Caso use o Dev C++, CodeBlocks ou similares não é nescessário mais nenhum passo, pode pegar o código e usar</li>
