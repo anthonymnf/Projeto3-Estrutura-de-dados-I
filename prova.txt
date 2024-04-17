@@ -1,0 +1,9 @@
+Nesta atividade, o aluno deve complementar a entrega do projeto na Unidade II, para incluir o seguinte:
+
+(✅) 1 - Incluir uma operação para ordenador uma lista de elementos do programa (o aluno pode ordenador qualquer estrutura de seu interesse).
+
+(✅) 2. Utilizar Lista (substituir os vetores utilizados na unidade anterior para lidar com estruturas para utilizar Lista)
+
+(✅) 3. Separar o programa em arquivos .h e .c
+
+(✅) 4. Adicionar o seu código ao GitHub
